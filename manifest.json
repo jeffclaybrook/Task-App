@@ -1,0 +1,23 @@
+{
+    "short_name": "Task App",
+    "name": "Task application",
+    "description": "Task application created by Jeffrey Claybrook",
+    "start_url": "index.html",
+    "background_color": "#fcfcff",
+    "display": "standalone",
+    "theme_color": "#fcfcff",
+    "icons": [
+        {
+            "src": "images/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ]
+}
